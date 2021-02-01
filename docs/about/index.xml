@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABOUT on Iván Gómez</title>
+    <link>https://ivangomez.github.io/PruebaGP/about/</link>
+    <description>Recent content in ABOUT on Iván Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright><atom:link href="https://ivangomez.github.io/PruebaGP/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
